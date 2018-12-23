@@ -1,0 +1,3 @@
+/home/amichai/CLionProjects/daniela-cpp-4-12/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/amichai/CLionProjects/daniela-cpp-4-12/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/amichai/CLionProjects/daniela-cpp-4-12/cmake-build-debug/CMakeFiles/daniela_cpp_4_12.dir
